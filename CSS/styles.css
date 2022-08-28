@@ -1,0 +1,20 @@
+nav{
+    background-color: yellow;
+    padding: 20px;
+    text-align: right;
+
+}
+
+section{
+    background-color: blue;
+    padding: 10px;
+}
+article{
+    background-color: red;
+    padding: 10px;
+}
+footer{
+    background-color: aqua;
+    padding: 20px;
+    text-align: center;
+}
