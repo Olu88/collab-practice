@@ -1,19 +1,25 @@
+/*Navigation*/
 nav{
     background-color: yellow;
     padding: 20px;
     text-align: right;
 }
 
+/*Left column*/
 section{
     background-color: blue;
     padding: 50px;
+    margin-right: 0px;
 }
 
+/*Right column*/
 article{
     background-color: red;
     padding: 50px;
+    margin-left: 0px;
 }
 
+/*Footer*/
 footer{
     background-color: aqua;
     padding: 20px;
